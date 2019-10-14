@@ -1,4 +1,4 @@
-## recycle bin storage XSS
+## S-CMS Enterprise Station Building System (php version)v3.0 recycle bin storage XSS
 
 There is a storage XSS vulnerability in the background of the s-cms enterprise website building system (PHP version). The attacker logs in to the administrator background and puts malicious js code,serious threat to network security.
 
